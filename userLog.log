@@ -1,0 +1,4 @@
+2023-01-30 18:27:57,177 - userLogger - INFO - 1 logged in
+2023-01-30 18:34:10,122 - userLogger - INFO - 1 logged in
+2023-01-30 18:36:49,182 - userLogger - INFO - ali logged in
+2023-01-30 19:23:42,104 - userLogger - ERROR - username's not started by string
